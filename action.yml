@@ -1,0 +1,5 @@
+name: FFFFFF
+description: Lint with FFFFFF which is Black but single quotes
+runs:
+  using: docker
+  image: Dockerfile
